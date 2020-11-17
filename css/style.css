@@ -1678,7 +1678,6 @@ nav.navbar.bootsnav .navbar-toggle {
   text-align: center;
   font-size: 29px;
   color: #8e68df;
-  float: left;
   border-radius: 100%;
   line-height: 2.1;
   z-index: 9;
@@ -1699,7 +1698,6 @@ nav.navbar.bootsnav .navbar-toggle {
   height: 250px;
   background: rgba(27, 39, 150, 0.65);
   opacity: 0;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   border-radius: 50%;
   background-clip: padding-box;
   -webkit-animation: waves 3s ease-in-out infinite;
